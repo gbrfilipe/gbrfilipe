@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Rocket.Chat - open-source fully customizable communications platform as support and integrations analyst<br>🌱 I’m currently learning Python, SQL and BI
+🔭 I’m currently working at Rocket.Chat as Support and Integrations Analyst<br>🌱 I’m currently learning Python, SQL and BI
 
 
 ## 🌐 Socials:
