@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 Working at Rocket.Chat as Support and Integrations Analyst<br>🌱 Learning Python, SQL and BI
+🤖 B.Sc. in Mechatronics Engineering <br>
+🔭 Working at [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) as Support and Integrations Analyst<br>🌱 Studying data stuff at [Let's Code by Ada](https://letscode.com.br/) and finished the [Google Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/3MTPP6K53VEQ) at Coursera
+
 
 
 ## 🌐 Socials:
